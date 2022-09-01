@@ -1,0 +1,340 @@
+{
+  "version": "3.67.28569.0",
+  "course_id": "6mf5pbVL92M",
+  "title": "STUDENT SUCCESS: NOTETAKING",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Course Overview"
+    },
+    {
+      "title": "Lesson 01: Note-Taking: Behavior, Focus, and Academics"
+    },
+    {
+      "title": "Lesson 02: Note-Taking Preview Assessment"
+    },
+    {
+      "title": "Lesson 03: Note-Taking Importance and Cornell Notes Overview"
+    },
+    {
+      "title": "Lesson 04: Cornell Notes Overview: How To?"
+    },
+    {
+      "title": "Lesson 05: Knowledge Review"
+    },
+    {
+      "title": "Lesson 06: Knowledge Review Quiz"
+    },
+    {
+      "title": "Lesson 07: Modifications: IEP/ELL/Middle School"
+    },
+    {
+      "title": "Lesson 08: Comments, Concerns, Questions"
+    },
+    {
+      "title": "Lesson 09: Review Video"
+    },
+    {
+      "title": "Lesson 10: Prompt"
+    },
+    {
+      "title": "Research Sources"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6ZzCgRSRJ6h",
+      "title": "STUDENT SUCCESS: NOTETAKING",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6koN5kfPa0L",
+      "title": "LEARNING OBJECTIVES",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5zT5wd4Ka3v",
+      "title": "LESSONS",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5zmpSOvskoZ",
+      "title": "LESSON 01",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5jA0C6LeGHv",
+      "title": "Note-Taking: Behavior, Focus, Academics",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "64LIYILZjZr",
+      "title": "BEHAVIOR & ACADEMICS",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5cQ9uaRKXoj",
+      "title": "LESSON 02",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6j5uDydIP3u",
+      "title": "SURVEY",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6AJgAOBYMp3",
+      "title": "INVENTORY RESULTS",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6Ie2SINkdxi",
+      "title": "SURVEY",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6nm3cpA8ocs",
+      "title": "SURVEY RESULTS",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "5dt0MLXFLSg",
+      "title": "REFLECTION QUESTIONS\n1) What stood out as a strategy you have commonly used that works for you?\n2) What is a strategy that you have not tried, but think may be helpful? Why do you think it will be helpful?\n3) To enhance my note-taking and maximize use of my notes, I will try the following strategy:___________",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "6bIzLW94Pmv",
+      "title": "SHORT ANSWER PROMPT",
+      "scene_index": "3.7"
+    },
+    {
+      "id": "5t1H9nXb8kh",
+      "title": "LESSON 03",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "5uedBkqi9fK",
+      "title": "WHY IS NOTE-TAKING IMPORTANT?",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6myfKbUclKc",
+      "title": "Student Success: Note-Taking",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6ZVpEugBCRm",
+      "title": "GENERAL NOTE-TAKING IDEAS",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "6YKPwCdjZld",
+      "title": "USE THE IMAGES BELOW FOR IDEAS ON HOW TO TAKE BETTER NOTES",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "5uS1l5EJuXj",
+      "title": "CORNELL NOTES METHOD",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "5bvfsVsstq7",
+      "title": "Preview of Cornell Notes",
+      "scene_index": "4.7"
+    },
+    {
+      "id": "6AUBaUD79IH",
+      "title": "LESSON 04",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "5WE2ZoQwmSk",
+      "title": "Cornell Notes: How To?\nThe Cornell Method is a “systematic format for condensing and organizing notes” (Source 4)",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "6OjhB5EFZ7s",
+      "title": "ADVANTAGES OF THE CORNELL METHOD",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "6SxrgroCowF",
+      "title": "LESSON 05",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "5yojLMyq4Lc",
+      "title": "SHOW ME YOUR KNOWLEDGE!",
+      "scene_index": "6.2"
+    },
+    {
+      "id": "5qFtFIe82LA",
+      "title": "KNOWLEDGE REVIEW\nHover over each label to learn about the different aspects of a Cornell Notes layout page",
+      "scene_index": "6.3"
+    },
+    {
+      "id": "5eF4QUND7xH",
+      "title": "VIDEO: CORNELL NOTES METHOD REVIEW",
+      "scene_index": "6.4"
+    },
+    {
+      "id": "5iZbZsjQIbH",
+      "title": "LESSON 06",
+      "scene_index": "7.1"
+    },
+    {
+      "id": "5zfWKE4tOFx",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "7.2"
+    },
+    {
+      "id": "5lYx4UmZqSu",
+      "title": "What kind of information goes in box 2?\n\nSelect ALL that apply.",
+      "scene_index": "7.3"
+    },
+    {
+      "id": "5ljutOxoDXK",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "7.4"
+    },
+    {
+      "id": "6rogzH0MBJ0",
+      "title": "Ways to make notes more visual include:\n\nSelect ALL answers that apply.",
+      "scene_index": "7.5"
+    },
+    {
+      "id": "5jmWnsd8cqv",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "7.6"
+    },
+    {
+      "id": "6gApVh3v2gU",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "7.7"
+    },
+    {
+      "id": "5iWnL9cSYfR",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "7.8"
+    },
+    {
+      "id": "5YrBEKd0BJ1",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "7.9"
+    },
+    {
+      "id": "6oJng0b0fP4",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "7.10"
+    },
+    {
+      "id": "6nvghX7VBSW",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "7.11"
+    },
+    {
+      "id": "683Z6MMtSlP",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "7.12"
+    },
+    {
+      "id": "6Na67LldHdk",
+      "title": "The student should be taking notes using the Cornell Notes format while...\n\nSelect ALL answers that apply.",
+      "scene_index": "7.13"
+    },
+    {
+      "id": "6Fp33WnVLbL",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "7.14"
+    },
+    {
+      "id": "6YWTh7rjXlu",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "7.15"
+    },
+    {
+      "id": "6YgW5EN4QYU",
+      "title": "When students take Cornell Notes, they should write down:\n\nSelect ALL that apply.",
+      "scene_index": "7.16"
+    },
+    {
+      "id": "6Tx1lVpYPMR",
+      "title": "QUIZ RESULTS",
+      "scene_index": "7.17"
+    },
+    {
+      "id": "5pLZRc4ujdb",
+      "title": "LESSON 07",
+      "scene_index": "8.1"
+    },
+    {
+      "id": "6IkedLCn4XE",
+      "title": "IEP/ELL STUDENT MODIFICATIONS",
+      "scene_index": "8.2"
+    },
+    {
+      "id": "6namx9eng87",
+      "title": "MEDIA INTERACTION",
+      "scene_index": "8.3"
+    },
+    {
+      "id": "5udEcIcMBYw",
+      "title": "LESSON 08",
+      "scene_index": "9.1"
+    },
+    {
+      "id": "6DKDzo0Cacv",
+      "title": "Do you have any comments, concerns or questions? Please submit them here so that we can best assist you!",
+      "scene_index": "9.2"
+    },
+    {
+      "id": "5qcvOV1KpXp",
+      "title": "LEARNER RESPONSE(S)",
+      "scene_index": "9.3"
+    },
+    {
+      "id": "6Ha1TLXR2F2",
+      "title": "LESSON 09",
+      "scene_index": "10.1"
+    },
+    {
+      "id": "6PyDrNx9UDQ",
+      "title": "REVIEW VIDEO",
+      "scene_index": "10.2"
+    },
+    {
+      "id": "6YhV5AlP7OB",
+      "title": "LESSON 10",
+      "scene_index": "11.1"
+    },
+    {
+      "id": "631q2YKS4Yh",
+      "title": "Please answer this survey question to the best of your ability.\n\n1. How will you use Cornell Notes in your classroom?\n\n2. What do you think the benefits and/or hindrances there are to using this note-taking method?",
+      "scene_index": "11.2"
+    },
+    {
+      "id": "5V3Jiuz7alp",
+      "title": "PROMPT RESPONSE(S)",
+      "scene_index": "11.3"
+    },
+    {
+      "id": "6PQs7LyiwtF",
+      "title": "RESEARCH SOURCES",
+      "scene_index": "12.1"
+    },
+    {
+      "id": "6OX17cSECUr",
+      "title": "EXIT COURSE",
+      "scene_index": "12.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
